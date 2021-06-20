@@ -11,7 +11,7 @@ export default function Home() {
           <div>Contact</div>        
         </div>
         <div className="flex justify-end mr-20 -mt-7">
-          <button className="bg-blue-500 hover:bg-blue-700 rounded-2xl h-8 w-28 text-cyan-50 focus:outline-none focus:ring-2 focus:ring-opacity-50 ">Log out</button>
+          <button className="bg-blue-500 hover:bg-blue-700 rounded-2xl h-8 w-28 text-cyan-50 focus:outline-none focus:ring-2 focus:ring-opacity-50 "><a href="/signIn">Log out</a></button>
         </div>
         <div className="text-3xl font-bold p-20 pb-1 mt-15 align-center text-center">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quidem iste perspiciatis rerum, pariatur minima officia ad accusamus</div>
         <div className="text-xl font-thin p-8 align-center text-center">Be part of our growing team here in the Philippines</div>
